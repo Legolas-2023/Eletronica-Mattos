@@ -1,11 +1,11 @@
 async function Placas(){
-    const conexaoPlacas = await fetch('https://eletronica-mattos-db-json.vercel.app/db.json/Placas');
+    const conexaoPlacas = await fetch('https://eletronica-mattos-db-json.vercel.app/Placas');
     const conexaoConvertidaPlacas = await conexaoPlacas.json();
     return conexaoConvertidaPlacas
 }
 
 async function adicionarPlacas(nome, tv, modelo, quantidade, caixa){
-    const conexaoPlacas = await fetch('https://eletronica-mattos-db-json.vercel.app/db.json/Placas', {
+    const conexaoPlacas = await fetch('https://eletronica-mattos-db-json.vercel.app/Placas', {
         method:'POST',
         headers:{
             'Content-type': 'application/json'
