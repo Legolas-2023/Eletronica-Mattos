@@ -1,0 +1,1052 @@
+{
+  "Placas": [
+    {
+      "id": "1",
+      "nome": "TV PHILCO PTV 32N875A",
+      "tv": "PHILCO PTV",
+      "modelo": "32N875A",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "2",
+      "nome": "TV LG PLASMA 42PG60D",
+      "tv": "LG PLASMA",
+      "modelo": "42PG60D",
+      "quantidade": 2,
+      "caixa": 1
+    },
+    {
+      "id": "3",
+      "nome": "TV SEMP TCL 43S5300",
+      "tv": "LG SEMP TCL",
+      "modelo": "43S5300",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "4",
+      "nome": "TV TCL 43S6500FS",
+      "tv": "TCL",
+      "modelo": "43S6500FS",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "5",
+      "nome": "TV SHARP LC - 46R54B",
+      "tv": "LG SHARP LC",
+      "modelo": "46R54B",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "6",
+      "nome": "TV LG 49UJ6565",
+      "tv": "LG",
+      "modelo": "49UJ6565",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "7",
+      "nome": "TV LG 55VJ6300",
+      "tv": "LG",
+      "modelo": "55VJ6300",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "8",
+      "nome": "TV CCE LCD STYLE D46",
+      "tv": "CCE LCD STYLE",
+      "modelo": "D46",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "9",
+      "nome": "TV  MULTILASER MODELO TL001",
+      "tv": "MULTILASER",
+      "modelo": "TL001",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "10",
+      "nome": "TV TLC MODELO 32S615",
+      "tv": "TLC MODELO 32S615",
+      "modelo": "32S615",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "11",
+      "nome": "TV AOC 32S5195/78G",
+      "tv": "AOC",
+      "modelo": "32S5195/78G",
+      "quantidade": 1,
+      "caixa": 1
+    },
+    {
+      "id": "12",
+      "nome": "TV LG 42PG60D",
+      "tv": "LG",
+      "modelo": "42PG60D",
+      "quantidade": 1,
+      "caixa": 2
+    },
+    {
+      "id": "13",
+      "nome": "TV PN 43H4000",
+      "tv": "PN",
+      "modelo": "43H4000",
+      "quantidade": 1,
+      "caixa": 2
+    },
+    {
+      "id": "14",
+      "nome": "TV LG PLASMA 50PA4500",
+      "tv": "LG PLASMA",
+      "modelo": "50PA4500",
+      "quantidade": 2,
+      "caixa": 2
+    },
+    {
+      "id": "15",
+      "nome": "TV LG PLASMA 60PA6550",
+      "tv": "LG PLASMA",
+      "modelo": "60PA6550",
+      "quantidade": 6,
+      "caixa": 2
+    },
+    {
+      "id": "16",
+      "nome": "TV PHILCO PLASMA PH43C21P - 3D",
+      "tv": "PHILCO PLASMA",
+      "modelo": "PH43C21P - 3D",
+      "quantidade": 1,
+      "caixa": 2
+    },
+    {
+      "id": "17",
+      "nome": "TV PHILCO PLASMA PH51C20P - 3D",
+      "tv": "PHILCO PLASMA",
+      "modelo": "PH51C20P - 3D",
+      "quantidade": 1,
+      "caixa": 2
+    },
+    {
+      "id": "18",
+      "nome": "TV LG 32LK610BPSA",
+      "tv": "LG",
+      "modelo": "32LK610BPSA",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "19",
+      "nome": "TV PHILIPS 32PFL3518G/78",
+      "tv": "PHILIPS",
+      "modelo": "32PFL3518G/78",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "20",
+      "nome": "TV LG 42LE5300",
+      "tv": "LG",
+      "modelo": "42LE5300",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "21",
+      "nome": "TV PHILIPS 42PFL3508G/78",
+      "tv": "PHILIPS",
+      "modelo": "42PFL3508G/78",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "22",
+      "nome": "TV LG 49LJ5550",
+      "tv": "LG",
+      "modelo": "49LJ5550",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "23",
+      "nome": "TV CCE LED STYLE D32",
+      "tv": "CCE LED STYLE",
+      "modelo": "D32",
+      "quantidade": 0,
+      "caixa": 3
+    },
+    {
+      "id": "24",
+      "nome": "TV PHILCO LED PH28N91D",
+      "tv": "PHILCO LED",
+      "modelo": "PH28N91D",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "25",
+      "nome": "TV SAMSUNG UN39FH5003G",
+      "tv": "SAMSUNG",
+      "modelo": "UN39FH5003G",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "26",
+      "nome": "TV SAMSUNG UN40JU6500G",
+      "tv": "SAMSUNG",
+      "modelo": "UN40JU6500G",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "27",
+      "nome": "TV SAMSUNG UN46D5500",
+      "tv": "SAMSUNG",
+      "modelo": "UN46D5500",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "28",
+      "nome": "TV SAMSUNG UN40J5200AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN40J5200AG",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "29",
+      "nome": "TV SAMSUNG LH32BETB",
+      "tv": "SAMSUNG",
+      "modelo": "LH32BETB",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "30",
+      "nome": "TV AOC 43S5295/78G",
+      "tv": "AOC",
+      "modelo": "43S5295/78G",
+      "quantidade": 1,
+      "caixa": 3
+    },
+    {
+      "id": "31",
+      "nome": "TV PHILIPS 32PFL5605D/78",
+      "tv": "PHILIPS",
+      "modelo": "32PFL5605D/78",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "32",
+      "nome": "TV SAMSUNG 40D503F7G",
+      "tv": "SAMSUNG",
+      "modelo": "40D503F7G",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "33",
+      "nome": "TV PHILIPS 40PFL5605D/78",
+      "tv": "PHILIPS",
+      "modelo": "40PFL5605D/78",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "34",
+      "nome": "TV LG 42LB5200",
+      "tv": "LG",
+      "modelo": "42LB5200",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "35",
+      "nome": "TV PHILIPS 42PFG5509",
+      "tv": "PHILIPS",
+      "modelo": "42PFG5509",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "36",
+      "nome": "TV LG 43LF500",
+      "tv": "LG",
+      "modelo": "43LF500",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "37",
+      "nome": "TV LG 49LF5400",
+      "tv": "LG",
+      "modelo": "49LF5400",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "38",
+      "nome": "TV AOC LE40H157",
+      "tv": "AOC",
+      "modelo": "LE40H157",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "39",
+      "nome": "TV PHILCO LED PH32M A4",
+      "tv": "PHILCO LED",
+      "modelo": "PH32M A4",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "40",
+      "nome": "TV PHILCO PH42E53SG",
+      "tv": "PHILCO",
+      "modelo": "PH42E53SG",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "41",
+      "nome": "TV PHILCO PH55E51DSGW",
+      "tv": "PHILCO",
+      "modelo": "PH55E51DSGW",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "42",
+      "nome": "TV SEMP TOSHIBA LC4045F",
+      "tv": "SEMP TOSHIBA",
+      "modelo": "LC4045F",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "43",
+      "nome": "TV SAMSUNG UN43J5200 AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN43J5200 AG",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "44",
+      "nome": "TV SAMSUNG UN43J5290 AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN43J5290 AG",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "45",
+      "nome": "TV SAMSUNG UN39FH5205G",
+      "tv": "SAMSUNG",
+      "modelo": "UN39FH5205G",
+      "quantidade": 1,
+      "caixa": 4
+    },
+    {
+      "id": "46",
+      "nome": "TV SEMP TOSHIBA LED 32",
+      "tv": "SEMP TOSHIBA LED",
+      "modelo": "32",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "47",
+      "nome": "TV SONY KDL 32EX525",
+      "tv": "SONY KDL",
+      "modelo": "32EX525",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "48",
+      "nome": "TV PHILIPS 32PHG5201/78",
+      "tv": "SEMP PHILIPS",
+      "modelo": "32PHG5201",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "49",
+      "nome": "TV LG 42LD460",
+      "tv": "LG",
+      "modelo": "42LD460",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "50",
+      "nome": "TV AOC 43S5295/78G",
+      "tv": "AOC",
+      "modelo": "43S5295/78G",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "51",
+      "nome": "TV PHILIPS 46PFL4908G/78",
+      "tv": "PHILIPS",
+      "modelo": "46PFL4908G/78",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "52",
+      "nome": "TV LG LN32D550K7G",
+      "tv": "LG",
+      "modelo": "LN32D550K7G",
+      "quantidade": 2,
+      "caixa": 5
+    },
+    {
+      "id": "53",
+      "nome": "TV SAMSUNG LN40D503",
+      "tv": "SAMSUNG",
+      "modelo": "LN40D503",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "54",
+      "nome": "TV SAMSUNG UN32EH4000G",
+      "tv": "SAMSUNG",
+      "modelo": "UN32EH5300G",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "55",
+      "nome": "TV SAMSUNG UN32EH5300G",
+      "tv": "SAMSUNG",
+      "modelo": "UN32EH4000G",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "56",
+      "nome": "TV SAMSUNG UN32F4200AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32F4200AG",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "57",
+      "nome": "TV SAMSUNG UN32J42290AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32J42290AG",
+      "quantidade": 1,
+      "caixa": 5
+    },
+    {
+      "id": "58",
+      "nome": "TV LG 32LH20R",
+      "tv": "LG",
+      "modelo": "32LH20R",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "59",
+      "nome": "TV LG 32LY340N",
+      "tv": "LG",
+      "modelo": "32LY340N",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "60",
+      "nome": "TV LG 43UJ6525",
+      "tv": "LG",
+      "modelo": "43UJ6525",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "61",
+      "nome": "TV LG 49LJ5500",
+      "tv": "LG",
+      "modelo": "49LJ5500",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "62",
+      "nome": "TV LG 49LJ5550",
+      "tv": "LG",
+      "modelo": "49LJ5550",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "63",
+      "nome": "TV CCE LED D32",
+      "tv": "CCE LED",
+      "modelo": "D32",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "64",
+      "nome": "TV SEMP TCL L32S39005",
+      "tv": "SEMP TCL",
+      "modelo": "L32S39005",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "65",
+      "nome": "TV AOC LE22H158",
+      "tv": "AOC",
+      "modelo": "LE22H158",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "66",
+      "nome": "TV AOC LE3955970",
+      "tv": "AOC",
+      "modelo": "LE3955970",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "67",
+      "nome": "TV CCE LN39G",
+      "tv": "CCE",
+      "modelo": "LN39G",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "68",
+      "nome": "TV SAMSUNG UN32D5500RG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32D5500RG",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "69",
+      "nome": "TV SAMSUNG UN50TV8000G",
+      "tv": "SAMSUNG",
+      "modelo": "UN50TV8000G",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "70",
+      "nome": "TV SAMSUNG UN55KU6000G",
+      "tv": "SAMSUNG",
+      "modelo": "UN55KU6000G",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "71",
+      "nome": "TV AOC LE32H1461",
+      "tv": "AOC",
+      "modelo": "LE32H1461",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "72",
+      "nome": "TV PHILCO PH32LEDA2",
+      "tv": "PHILCO",
+      "modelo": "PH32LEDA2",
+      "quantidade": 1,
+      "caixa": 6
+    },
+    {
+      "id": "73",
+      "nome": "TV PHILIPS 23PF5321/78",
+      "tv": "PHILIPS",
+      "modelo": "23PF5321/78",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "74",
+      "nome": "TV SONY KDL 32EX425",
+      "tv": "SONY KDL",
+      "modelo": "32EX425",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "75",
+      "nome": "TV LG 32LF20FR",
+      "tv": "LG",
+      "modelo": "32LF20FR",
+      "quantidade": 2,
+      "caixa": 7
+    },
+    {
+      "id": "76",
+      "nome": "TV PHILIPS 40PFG6309/78",
+      "tv": "PHILIPS",
+      "modelo": "40PFG6309/78",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "77",
+      "nome": "TV PHILIPS 40PFL3606D/78",
+      "tv": "PHILIPS",
+      "modelo": "40PFL3606D/78",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "78",
+      "nome": "TV LG 50LN5400",
+      "tv": "LG",
+      "modelo": "50LN5400",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "79",
+      "nome": "TV PLASMA 50PA4500",
+      "tv": "PLASMA",
+      "modelo": "50PA4500",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "80",
+      "nome": "TV AOC LE40H157",
+      "tv": "AOC",
+      "modelo": "LE40H157",
+      "quantidade": 0,
+      "caixa": 7
+    },
+    {
+      "id": "81",
+      "nome": "TV SAMSUNG LN32D450G1G",
+      "tv": "SAMSUNG",
+      "modelo": "LN32D450G1G",
+      "quantidade": 2,
+      "caixa": 7
+    },
+    {
+      "id": "82",
+      "nome": "TV PHILCO LED PH32MA43",
+      "tv": "PHILCO LED",
+      "modelo": "PH32MA43",
+      "quantidade": 0,
+      "caixa": 7
+    },
+    {
+      "id": "83",
+      "nome": "TV PHILCO LED PH39U21DSGW",
+      "tv": "PHILCO LED",
+      "modelo": "PH39U21DSGW",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "84",
+      "nome": "TV SAMSUNG UN40H5103AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN40H5103AG",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "85",
+      "nome": "TV PANASONIC TC32ES600B",
+      "tv": "PANASONIC",
+      "modelo": "TC32ES600B",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "86",
+      "nome": "TV PHILIPS 52PFL7404D/78",
+      "tv": "PHILIPS",
+      "modelo": "52PFL7404D/78",
+      "quantidade": 1,
+      "caixa": 7
+    },
+    {
+      "id": "87",
+      "nome": "TV SONY KDL 32BX425",
+      "tv": "SONY KDL",
+      "modelo": "32BX425",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "88",
+      "nome": "TV LG 32LF20FR",
+      "tv": "LG",
+      "modelo": "32LF20FR",
+      "quantidade": 0,
+      "caixa": 8
+    },
+    {
+      "id": "89",
+      "nome": "TV LG 32LK615BPSB",
+      "tv": "LG",
+      "modelo": "32LK615BPSB",
+      "quantidade": 3,
+      "caixa": 8
+    },
+    {
+      "id": "90",
+      "nome": "TV PHILIPS 32PFL3403/78",
+      "tv": "PHILIPS",
+      "modelo": "32PFL3403/78",
+      "quantidade": 3,
+      "caixa": 8
+    },
+    {
+      "id": "91",
+      "nome": "TV PHILIPS 32PFL3404/78",
+      "tv": "PHILIPS",
+      "modelo": "32PFL3404/78",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "92",
+      "nome": "TV SEMP DL 4053(A)",
+      "tv": "SEMP DL",
+      "modelo": "4053(A)",
+      "quantidade": 0,
+      "caixa": 8
+    },
+    {
+      "id": "93",
+      "nome": "TV PHILCO 42F10DSGW",
+      "tv": "PHILCO",
+      "modelo": "42F10DSGW",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "94",
+      "nome": "TV HBUSTER 42L03FD",
+      "tv": "HBUSTER",
+      "modelo": "42L03FD",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "95",
+      "nome": "TV LG 42LB5600",
+      "tv": "LG",
+      "modelo": "42LB5600",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "96",
+      "nome": "TV LG 42LY340C",
+      "tv": "LG",
+      "modelo": "42LY340C",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "97",
+      "nome": "TV LG 43LM631COSB",
+      "tv": "LG",
+      "modelo": "43LM631COSB",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "98",
+      "nome": "TV AOC 43S5195/78G",
+      "tv": "AOC",
+      "modelo": "43S5195/78G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "99",
+      "nome": "TV LG 49UK631",
+      "tv": "LG",
+      "modelo": "49UK631",
+      "quantidade": 2,
+      "caixa": 8
+    },
+    {
+      "id": "100",
+      "nome": "TV TOSHIBA D13275(A)",
+      "tv": "TOSHIBA",
+      "modelo": "D13275(A)",
+      "quantidade": 0,
+      "caixa": 8
+    },
+    {
+      "id": "101",
+      "nome": "TV SAMSUNG D503F7G",
+      "tv": "SAMSUNG",
+      "modelo": "D503F7G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "102",
+      "nome": "TV TOSHIBA DL42",
+      "tv": "TOSHIBA",
+      "modelo": "DL42",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "103",
+      "nome": "TV SEMP TCL L32S39005",
+      "tv": "SEMP TCL",
+      "modelo": "L32S39005",
+      "quantidade": 0,
+      "caixa": 8
+    },
+    {
+      "id": "104",
+      "nome": "TV AOC L3955970",
+      "tv": "AOC",
+      "modelo": "L3955970",
+      "quantidade": 0,
+      "caixa": 8
+    },
+    {
+      "id": "105",
+      "nome": "TV TOSHIBA LC324246",
+      "tv": "TOSHIBA",
+      "modelo": "LC324246",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "106",
+      "nome": "TV TOSHIBA LC3245W",
+      "tv": "TOSHIBA",
+      "modelo": "LC3245W",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "107",
+      "nome": "TV AOC LE32H1465",
+      "tv": "AOC",
+      "modelo": "LE32H1465",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "108",
+      "nome": "TV CCE LN39G",
+      "tv": "CCE",
+      "modelo": "LN39G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "109",
+      "nome": "TV PHILCO PH32M.2",
+      "tv": "PHILCO",
+      "modelo": "PH32M.2",
+      "quantidade": 3,
+      "caixa": 8
+    },
+    {
+      "id": "110",
+      "nome": "TV PHILCO PH42E53SG",
+      "tv": "PHILCO",
+      "modelo": "PH42E53SG",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "111",
+      "nome": "TV SAMSUNG UN32EH40000G",
+      "tv": "SAMSUNG",
+      "modelo": "UN32EH40000G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "112",
+      "nome": "TV SAMSUNG UN32J4300AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32J4300AG",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "113",
+      "nome": "TV SAMSUNG UN32T4300AG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32T4300AG",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "114",
+      "nome": "TV SAMSUNG UN49MU6100G",
+      "tv": "SAMSUNG",
+      "modelo": "UN49MU6100G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "115",
+      "nome": "TV SAMSUNG UN49MU6300G",
+      "tv": "SAMSUNG",
+      "modelo": "UN49MU6300G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "116",
+      "nome": "TV AOC 43S5295/78G",
+      "tv": "AOC",
+      "modelo": "43S5295/78G",
+      "quantidade": 1,
+      "caixa": 8
+    },
+    {
+      "id": "117",
+      "nome": "TV LG 43UK6310PSE",
+      "tv": "LG",
+      "modelo": "43UK6310PSE",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "118",
+      "nome": "TV LG UN65RU7100",
+      "tv": "LG",
+      "modelo": "UN65RU7100",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "119",
+      "nome": "TV PHILCO PH39N91DSGWA",
+      "tv": "PHILCO",
+      "modelo": "PH39N91DSGWA",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "120",
+      "nome": "TV SEMP TOSHIBA LC3245W",
+      "tv": "SEMP TOSHIBA",
+      "modelo": "LC3245W",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "121",
+      "nome": "TV LG 49UJ6300",
+      "tv": "LG",
+      "modelo": "49UJ6300",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "122",
+      "nome": "TV PHILIPS 55PUG6513/78",
+      "tv": "PHILIPS",
+      "modelo": "55PUG6513/78",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "123",
+      "nome": "TV PHILIPS 42PFL5508G/78",
+      "tv": "PHILIPS",
+      "modelo": "42PFL5508G/78",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "124",
+      "nome": "TV SAMSUNG UN32D5000PG",
+      "tv": "SAMSUNG",
+      "modelo": "UN32D5000PG",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "125",
+      "nome": "TV SAMSUNG UN65AU7700G",
+      "tv": "SAMSUNG",
+      "modelo": "UN65AU7700G",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "126",
+      "nome": "TV LG 32LK615BPSB",
+      "tv": "LG",
+      "modelo": "32LK615BPSB",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "127",
+      "nome": "TV LG 42LN5400",
+      "tv": "LG",
+      "modelo": "42LN5400",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "128",
+      "nome": "TV AOC 43S5195/78",
+      "tv": "AOC",
+      "modelo": "43S5195/78",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "129",
+      "nome": "TV SEMP STI LE3250(A)WDA",
+      "tv": "SEMP STI",
+      "modelo": "LE3250(A)WDA",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "130",
+      "nome": "TV PHILIPS 32PFL3605D/78",
+      "tv": "PHILIPS",
+      "modelo": "32PFL3605D/78",
+      "quantidade": 1,
+      "caixa": 9
+    },
+    {
+      "id": "131",
+      "nome": "TV SEMP TOSHIBA DL3271(B)W",
+      "tv": "SEMP TOSHIBA",
+      "modelo": "DL3271(B)W",
+      "quantidade": 1,
+      "caixa": 9
+    }
+  ]
+}
