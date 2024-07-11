@@ -1,11 +1,11 @@
 async function Placas(){
-    const conexaoPlacas = await fetch('https://github.com/Legolas-2023/Eletronica-Mattos/blob/main/db.json/Placas');
+    const conexaoPlacas = await fetch('http://localhost:3000/Placas');
     const conexaoConvertidaPlacas = await conexaoPlacas.json();
     return conexaoConvertidaPlacas
 }
 
 async function adicionarPlacas(nome, tv, modelo, quantidade, caixa){
-    const conexaoPlacas = await fetch('https://github.com/Legolas-2023/Eletronica-Mattos/blob/main/db.json/Placas', {
+    const conexaoPlacas = await fetch('http://localhost:3000/Placas', {
         method:'POST',
         headers:{
             'Content-type': 'application/json'
