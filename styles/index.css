@@ -1,0 +1,34 @@
+body{
+    overflow: hidden;
+}
+
+section#corpo-imagem{
+    background-image: url('../assets/EM.gif');
+    background-position: center;
+    background-size:cover;
+    width:100%;
+    height: 100vh;
+}
+
+@media (max-width:768px){
+
+    section#corpo-imagem{
+        background-position:top;
+        background-repeat: no-repeat;
+        background-size:contain;
+    }
+}
+
+@media (max-width:456px){
+
+    /*index.css*/
+
+    li#principal{
+        font-size: 0.8rem;
+    }
+
+    figcaption{
+        font-size: 0.8rem;
+    }
+
+}
