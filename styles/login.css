@@ -1,0 +1,105 @@
+main#main-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('/assets/Background_Placa_Eletronica.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    gap:50px;
+}
+
+main#main-login::after{
+    content: '';
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color8);
+    height: 100vh;
+    width: 100%;
+}
+
+main#main-login>img{
+    width: 50%;
+    border-radius: 10px;
+}
+
+main#main-login>section{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    border:1px solid var(--color1);
+    border-radius: 10px;
+    width: 30%;
+    padding: 50px 20px;
+    background-color: var(--color10);
+    transition: .5s all ease-in-out;
+    z-index: 100;
+    filter: drop-shadow(1px 1px 10px var(--color1));
+}
+
+main#main-login>section:hover{
+    border:1px solid var(--color1);
+    border-radius: 10px;
+    width: 30%;
+    padding: 50px 20px;
+    background-color: var(--color2);
+}
+
+main#main-login>section>i{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-size: 5rem;
+}
+
+form#login-form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+form#login-form>label{
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+
+form#login-form>label>i{
+    display: flex;
+    justify-content: center;
+    font-size: 1.15rem;
+}
+
+form#login-form>label>input{
+    width: 100%;
+    font-size: 1.15rem;
+    padding: 5px;
+    border:1px solid var(--color1);
+}
+
+input[type='submit'].bi-input{
+    padding:10px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+input[type='submit'].bi-input:hover{
+    background-color: var(--color6);
+    color:var(--color2);
+}
+
+@media (max-width:768px) {
+    main#main-login>img{
+        display: none;
+    }
+
+    main#main-login>section, main#main-login>section:hover{
+        width: 500px;
+        max-width: 90vw;
+    }
+}

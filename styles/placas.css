@@ -1,0 +1,76 @@
+section#myTable{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+#title_page{
+	text-align:center;
+	font-size:5vw;
+    width: 40%;
+}
+
+#INPUT_NOME{
+	width: 70%;
+	border: 2px solid var(--color3);
+	border-radius: 10px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 2rem;
+    margin:0 auto;
+}
+
+#INPUT_NOME:hover{
+	border: 2px solid var(--color8);
+}
+	
+#table_conteiner{
+    border:solid 1px;
+    border-collapse:collapse; 
+}
+	
+#table_head tr,th{
+	background: var(--color4);
+	color: var(--color2);
+	width: 20%;
+	font-size: 2vw;
+	text-align: center;
+}
+	
+#table_conteiner tbody tr{
+    border:solid 1px;
+    height:5vw;
+	width:20%;
+	font-size:1.8vw;
+	text-align:center;
+}
+
+#table_conteiner tbody tr:hover{
+	background-color: var(--color8);
+	transition: .5s linear;
+}
+
+@media (max-width:768px){
+
+    /* #title_page{
+        font-size: 2rem;
+    } */
+
+    #INPUT_NOME{
+        font-size: 1rem;                
+    }
+} 
+
+@media (max-width:456px){
+
+    /* h1#title_page{
+        border:1px solid red;
+    } */
+
+    h2{
+        font-size: 1rem;
+    }
+}
+
+

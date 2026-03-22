@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+:root{
+    --color1: #1C1C1C;
+    --color2: #FFFFFF;
+    --color3: #808080;
+    --color4: #505050;
+    --color5: #414040;
+    --color6: #110D0D;
+    --color7: #FF0000;
+
+    --color8: rgba(0, 0, 0, 0.2);
+    --color9: rgb(90,90,90);
+    --color10: rgba(255,255,255,0.8);
+
+    --font1: "Play", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    border:0;
+    box-sizing: border-box; 
+    font-family: var(--font1);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color9);
+}
+  
+::-webkit-scrollbar-track {
+    background: var(--color8);
+}
+
+body.no-scroll {
+    overflow: hidden;
+}
