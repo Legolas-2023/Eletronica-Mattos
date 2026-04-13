@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="dark">
+
+<head>
+		<title> EM Eletrônica Mattos </title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="../assets/EM.png" type="image/x-icon">
+		<link rel="stylesheet" href="../styles/output.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+	<div id="header-container" class="sticky"></div>
+		<main>
+			<section id="myTable" class="mt-20 flex flex-col gap-5 text-center">
+				<h1 id="title_page" class="text-[5vw] w-[40%] mx-auto font-extrabold">PLACAS ELETRÔNICAS</h1>
+				<input type="text" id="INPUT_NOME" class="w-[70%] border-2 border-color3 rounded-lg text-[2vw] mx-auto" placeholder="&#128270 DIGITE O NOME DA PLACA...">
+				<table id="table_conteiner" class="border border-collapse w-full table-fixed">
+					<thead>
+						<tr id="table_head" class="bg-color4 text-color2 text-[2vw]">
+							<th>NOME</th>
+							<th>TV</th>
+							<th>MODELO</th>
+							<th>QUANTIDADE</th>
+							<th>CAIXA</th>
+						</tr>
+					</thead>
+					<tbody id="table_body">
+			
+					</tbody>
+				</table>
+			</section>
+		</main>
+	
+	<script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+	<script src="/js/dados.js"></script>
+	<script src="/js/header.js"></script>
+	<script src="/js/placas.js"></script>
+</body>
+
+</html>

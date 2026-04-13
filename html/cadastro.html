@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="../assets/EM.png" type="image/x-icon">
+    <link rel="stylesheet" href="../styles/output.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>EM Eletrônica Mattos - Cadastro</title>
+</head>
+<body>
+    <header id="header-container"></header>
+    <main id="main-content">
+        <section class="cad h-screen flex justify-center items-center flex-col">
+            <h1 class="text-[3vw] font-extrabold">Cadastro de Placas</h1>
+
+            <form method="get" class="border-4 rounded-2xl border-color6 w-[70%] drop-shadow-xz p-4 bg-color10 hover:bg-color2 transition duration-700 ease-in-out active:bg-color2 focus:bg-color2 m-[425px]:w-[90%]">
+                <fieldset id="mn" class="flex flex-col gap-2 text-[1.5vw]">
+                    <label for="name" class="font-extrabold">Nome da Placa: <input type="text" name="name" id="name" class="inpt-cads" required placeholder="TV AOC 32S5195/78G" autocomplete="off"></label>
+                    
+
+                    <label for="tv" class="font-extrabold">Nome da TV: <input type="text" name="tv" id="tv" class="inpt-cads" required placeholder="AOC" autocomplete="off"></label>
+                    
+
+                    <label for="modelo" class="font-extrabold">Modelo: <input type="text" name="modelo" id="modelo" class="inpt-cads" required placeholder="32S5195/78G" autocomplete="off"></label>
+                    
+                    <fieldset id="mn-sb" class="flex w-full justify-center items-center gap-5 max-[425px]:flex-col">
+                        <label for="quantidade" class="w-full font-extrabold">Quantidade: <input type="number" name="quantidade" id="quantidade" class="inpt-cads" required autocomplete="off"></label>
+
+                        <label for="caixa" class="w-full font-extrabold">Caixa: <input type="number" name="caixa" id="caixa" class="inpt-cads" required autocomplete="off"></label>
+                        
+                    </fieldset>
+                    <button type="submit" class="w-1/2 my-5 mx-auto p-2.5 border bg-color11 rounded-2xl cursor-pointer transition duration-700 ease-in-out font-extrabold hover:bg-color4 hover:text-color2 max-[425px]:w-full">Salvar</button>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+    <script src="/js/dados.js"></script>
+    <script src="/js/header.js"></script>
+    <script src="/js/cadastro.js"></script>
+</body>
+</html>
